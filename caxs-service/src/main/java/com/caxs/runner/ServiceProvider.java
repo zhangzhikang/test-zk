@@ -27,5 +27,5 @@ public class ServiceProvider {
 	  
 	     //   System.in.read(); 
 		  com.alibaba.dubbo.container.Main.main(args);
-	    }  
+	    }
 }

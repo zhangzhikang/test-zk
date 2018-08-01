@@ -21,4 +21,7 @@ public class UsrRoleService implements  IUsrRoleService{
         return  usrRoleMapper.getUsrRole();		   
     }
 
+    private void test(){
+        return;
+    }
 }
